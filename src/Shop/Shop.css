@@ -1,0 +1,7 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/react-baa97.appspot.com/o/NF%20realmusic.webp?alt=media&token=86cccfe0-490b-42b3-ae7b-d59ce57fe43f');
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}

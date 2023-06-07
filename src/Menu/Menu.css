@@ -1,0 +1,7 @@
+.banner{
+    background-image:  url('https://firebasestorage.googleapis.com/v0/b/react-baa97.appspot.com/o/foto1.webp?alt=media&token=541ab60a-9d08-4624-bdcb-f6dc5c27682e');
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
